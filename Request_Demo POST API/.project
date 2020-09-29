@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>B%%Testing%Request_Demo POST API%Request_Demo POST API.prj</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.groovy.core.groovyNature</nature>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>kat-1380379005012342604.groovy</name>
+			<type>1</type>
+			<location>C:/Users/amely/AppData/Local/Temp/Katalon/Web Services/kat-1380379005012342604.groovy</location>
+		</link>
+		<link>
+			<name>kat-2139153136897894412.groovy</name>
+			<type>1</type>
+			<location>C:/Users/amely/AppData/Local/Temp/Katalon/Web Services/kat-2139153136897894412.groovy</location>
+		</link>
+		<link>
+			<name>kat-5950213681416864621.groovy</name>
+			<type>1</type>
+			<location>C:/Users/amely/AppData/Local/Temp/Katalon/Web Services/kat-5950213681416864621.groovy</location>
+		</link>
+	</linkedResources>
+	<filteredResources>
+		<filter>
+			<id>1601365475232</id>
+			<name></name>
+			<type>10</type>
+			<matcher>
+				<id>org.eclipse.core.resources.regexFilterMatcher</id>
+				<arguments>.*\.svn$</arguments>
+			</matcher>
+		</filter>
+		<filter>
+			<id>1601365475321</id>
+			<name></name>
+			<type>6</type>
+			<matcher>
+				<id>org.eclipse.core.resources.regexFilterMatcher</id>
+				<arguments>(.*\.svn-base$)|(.*\.png$)|(.*\.log$)|(.*\.xlsx$)|(.*\.xls$)|(.*\.csv$)|(.*\.txt$)</arguments>
+			</matcher>
+		</filter>
+		<filter>
+			<id>1601383543738</id>
+			<name></name>
+			<type>10</type>
+			<matcher>
+				<id>org.eclipse.core.resources.regexFilterMatcher</id>
+				<arguments>.*\.svn$</arguments>
+			</matcher>
+		</filter>
+		<filter>
+			<id>1601383543754</id>
+			<name></name>
+			<type>6</type>
+			<matcher>
+				<id>org.eclipse.core.resources.regexFilterMatcher</id>
+				<arguments>(.*\.svn-base$)|(.*\.png$)|(.*\.log$)|(.*\.xlsx$)|(.*\.xls$)|(.*\.csv$)|(.*\.txt$)</arguments>
+			</matcher>
+		</filter>
+	</filteredResources>
+</projectDescription>
